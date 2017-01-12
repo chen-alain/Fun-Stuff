@@ -1,4 +1,5 @@
-// Father's Day 2014.cpp : Defines the entry point for the console application.
+// An image unscrambler.
+// Reveals a secret message!
 //
 
 #include "stdafx.h"
